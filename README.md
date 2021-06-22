@@ -4,7 +4,7 @@
 
 **Some of the Scripts are taken from [Google Samples](https://github.com/googlesamples/assistant-sdk-python) for which we don't own any copyrights**
 
-Co-Developer: @github.com/300-iq
+Co-Developer: @github.com/ChitturiSaiSuman
 
 [Full Project Demonstration](https://youtu.be/CJJJV1EhqXg)
 
